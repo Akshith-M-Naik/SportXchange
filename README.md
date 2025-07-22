@@ -1,5 +1,5 @@
 <p align="center">
-  ![SportXchange](public/photos/logo1.png)
+  ![SportXchange](assets/images/adaptive_foreground_icon.png)
 
 </p>
 

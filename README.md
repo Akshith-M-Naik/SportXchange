@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="http://googleusercontent.com/file_content/0" alt="SportXchange Logo" width="200"/>
+  ![SportXchange](public/photos/logo1.png)
+
 </p>
 
 <h1 align="center">SportXchange</h1>

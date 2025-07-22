@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753764308154",
+    "project_id": "sport-xchange-6t3twk",
+    "storage_bucket": "sport-xchange-6t3twk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753764308154:android:8cd3166ca6a05f9d0e5e83",
+        "android_client_info": {
+          "package_name": "com.mycompany.sportxchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdxmskbOyZtrF3j3S-KcAZCqPqm_RHeBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

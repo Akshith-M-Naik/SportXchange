@@ -1,5 +1,6 @@
+
 <p align="center">
-  ![SportXchange](assets/images/adaptive_foreground_icon.png)
+  <img src="https://raw.githubusercontent.com/Akshith-M-Naik/SportXchange/main/assets/images/adaptive_foreground_icon.png" alt="SportXchange Logo" width="200"/>
 
 </p>
 

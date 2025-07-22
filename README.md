@@ -65,7 +65,7 @@ The navigation structure of the app is designed to be intuitive and user-friendl
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshith-M-Naik/SportXchange/main/assets/images/adaptive_foreground_icon.png" alt="SportXchange Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/Akshith-M-Naik/SportXchange/main/assets/images/image.png" alt="SportXchange Logo" width="500"/>
 
 </p>
 

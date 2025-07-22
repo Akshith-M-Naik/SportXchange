@@ -63,7 +63,11 @@ Our platform is packed with features to cater to every sports lover's needs:
 
 The navigation structure of the app is designed to be intuitive and user-friendly.
 
-![Application Navigation Chart](https://i.imgur.com/g88Gk9c.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshith-M-Naik/SportXchange/main/assets/images/adaptive_foreground_icon.png" alt="SportXchange Logo" width="200"/>
+
+</p>
 
 ---
 

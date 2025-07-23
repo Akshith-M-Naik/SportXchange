@@ -9,7 +9,11 @@
 <p align="center">
   An all-in-one Flutter platform for sports tutorials, event updates, e-commerce, and facility discovery.
 </p>
-
+<p align="center">
+  <a href="https://sport-xchange-6t3twk.flutterflow.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=flutter" alt="Live Demo"/>
+  </a>
+</p>
 ---
 
 ## 📖 Table of Contents
